@@ -1,0 +1,2 @@
+Prefix plugins/CacheStats/example/
+Plugin CacheStats inputfile input.csv outputfile output.png
